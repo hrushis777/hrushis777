@@ -1,10 +1,10 @@
 ### Hi there, I'm Hrushi - Sawant 👋
 
-## I'm a Front-End Developer, who lovw to code!
+## I'm a Front-End Developer, who love to code!
 
-- 📚 I’m currently learning Javascript,React and Firebase.
+- 📚 I’m currently learning Javascript, React and Firebase.
 - 👯 I’m Open to work with the componay and other passionate developers.
-- 🥅 2021 Goals: Master React,Complete MERN Stack
+- 🥅 2021 Goals: Master React,Complete MERN Stack.
 
 <br />
 
