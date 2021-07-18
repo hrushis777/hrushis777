@@ -6,13 +6,6 @@
 - 👯 I’m Open to work with the componay and other passionate developers.
 - 🥅 2021 Goals: Master React,Complete MERN Stack
 
-
-### Connect with me:
-
-<img align="left" alt="hrushis777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[https://twitter.com/sawant_hrushi]
-<img align="left" alt="hrushis777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/hrushi-sawant-aa3a1b17b/]
-<img align="left" alt="hrushis777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[https://www.instagram.com/]
-
 <br />
 
 ### Languages and Tools:
